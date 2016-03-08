@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[VideoPro]]></title>
-        <description><![CDATA[VideoPro]]></description>
+        <title><![CDATA[one stop source for your needs]]></title>
+        <description><![CDATA[one stop source for your needs]]></description>
         <link>https://thegrid.ai/videopro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 17:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 17:28:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/videopro/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffd5e73a-5f84-4a53-be1c-48ca77b6ff59.jpg">]]></description>
+            <link>https://thegrid.ai/videopro/our-work/index.html</link>
+            <guid isPermaLink="false">8d0ee88c-3d1e-4c44-8b82-1c6cba12ef45</guid>
+            <pubDate>Tue, 08 Mar 2016 17:26:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/934db15d-fe4a-408f-8677-fcdc793cc89f.jpg">]]></description>
